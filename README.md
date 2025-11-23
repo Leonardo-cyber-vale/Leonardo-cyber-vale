@@ -67,7 +67,7 @@ Sugestões de projetos para colocar:
 ---
 
 ## 🌐 Onde me encontrar
-📌 **LinkedIn:** https://www.linkedin.com/in/leonardo-do-vale  
+📌 **LinkedIn:**  https://www.linkedin.com/in/leonardodovale?utm_source=share_via&utm_content=profile&utm_medium=member_android
 📧 **Email:** monteiroleonardo822@gmail.com  
 
 ---
