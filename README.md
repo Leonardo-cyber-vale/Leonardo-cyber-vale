@@ -48,8 +48,7 @@ Atualmente desenvolvendo habilidades práticas com Python, fundamentos de redes 
 ---
 
 ## ⭐ Projetos em Desenvolvimento
-> *Por enquanto você ainda está começando — coloque aqui seus primeiros projetos quando subir para o GitHub.*  
-Sugestões de projetos para colocar:
+
 - 🕵️ Scanner de portas em Python  
 - 🔍 Validador de senhas com regras OWASP  
 - 🛡️ Pequeno script para verificar vulnerabilidades básicas  
@@ -58,7 +57,6 @@ Sugestões de projetos para colocar:
 ---
 
 ## 📊 Estatísticas
-> Aqui já está configurado com seu nome de verdade — agora não vai dar erro 😉
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-cyber-vale&show_icons=true&theme=tokyonight" />
@@ -68,6 +66,7 @@ Sugestões de projetos para colocar:
 
 ## 🌐 Onde me encontrar
 📌 **LinkedIn:**  https://www.linkedin.com/in/leonardodovale?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 📧 **Email:** monteiroleonardo822@gmail.com  
 
 ---
